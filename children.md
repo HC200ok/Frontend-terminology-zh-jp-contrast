@@ -21,6 +21,7 @@ public void set(byte children) {
     childC = (byte) (children & 0x01);
     children >>= 1;
     childD = (byte) (children & 0x01);
+    children >>= 1;
     childE = (byte) (children & 0x01);
     children >>= 1;
     childF = (byte) (children & 0x01);
