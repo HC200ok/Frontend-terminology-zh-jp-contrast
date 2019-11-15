@@ -18,3 +18,6 @@
 | 换行  | 折返し | word-breakは単語の折返し；单词换行 |
 | 文本超出元素  | はみ出る | word-break:break-all;を使うことで単語途中でも折返しされるため、テキストが要素の外にはみ出ることはなくなります|
 | 参数  | 引数 | 函数的参数 parameter|
+| 实参  | 実引数 | |
+| 单一职责原则  | 単一責任の原則 | SRP: Single Responsibility Principle|
+
