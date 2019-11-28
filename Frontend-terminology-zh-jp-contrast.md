@@ -21,5 +21,6 @@
 | 实参  | 実引数 | |
 | 单一职责原则  | 単一責任の原則 | SRP: Single Responsibility Principle|
 | 加载  | 読み込む | jQueryを読み込んで|
+| 嵌套路由  | 動的なルーティング | https://zh.nuxtjs.org/guide/routing|
 
 
