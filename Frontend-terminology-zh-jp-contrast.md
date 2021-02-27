@@ -23,5 +23,7 @@
 | 加载  | 読み込む | jQueryを読み込んで|
 | 嵌套路由  | 動的なルーティング | https://zh.nuxtjs.org/guide/routing|
 | 非对称加密  | 共通鍵暗号 | https://gaprot.jp/2015/04/10/android_data_security/|
-
-
+| 调用api  | apiを呼び出し | |
+|  权限 | 権限 | |
+|  access token | アクセストークン | |
+|  把设定搞乱了 | 設定を弄っている | |
