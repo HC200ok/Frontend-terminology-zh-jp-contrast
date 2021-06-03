@@ -38,4 +38,5 @@
 | JavaScript実行環境  |  | | nodejs|
 | デスクトップアプリケーション  | 桌面应用 | | nodejs|
 | メンテ  | 维护 | | nodejs|
-
+| 並行性  | 并发 | | server |
+| 同時実行性能  | 并发性能 | | server |
